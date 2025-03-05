@@ -50,7 +50,7 @@ const StyledLi= styled.li`
 const StyledLink = styled(Link)`
     text-decoration: none;
     color: #390765;
-`
+`;
 
 
 
